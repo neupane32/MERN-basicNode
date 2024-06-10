@@ -1,0 +1,14 @@
+{
+  "name": "mern-2.0-basic",
+  "version": "1.0.0",
+  "description": "yo chai mero basic nodejs ko project ho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashish Neupane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
